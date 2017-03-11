@@ -13,9 +13,9 @@ Future plans:
 
 Big shout out to /u/AfterAfterlife, /u/not_a_miner, (Istaran | Medivh - EU for the initial inspiration), and definitely Zordiak Darkspear-US for the StayUnsheathed code which I ripped this off from. Like literally if you look at all the Lua, it's pretty much identical with everything, just switched around and altered. Please go support the original addon author here: AddOn Page because the link expires etc.
 
-Inspiration: Helm was an addon I loved very dearly, and I'm very sad to see it go away. It essentially made you "equip" your helmet upon entering combat, and "unequip" your helmet after x amount of seconds leaving combat. Seeing it go inspired me to want to make an addon which would do the same for the sheathing functionality of a weapon.
+**Inspiration**: Helm was an addon I loved very dearly, and I'm very sad to see it go away. It essentially made you "equip" your helmet upon entering combat, and "unequip" your helmet after x amount of seconds leaving combat. Seeing it go inspired me to want to make an addon which would do the same for the sheathing functionality of a weapon.
 
-KNOWN ISSUES:
+**KNOWN ISSUES**:
 
 * Sometimes, seemingly randomly upon dismounting and going indoors, you'll unsheath your weapon.
 * If you manage to sheath your weapon before combat has ended (having previously been in combat) you will unsheath your weapon.
