@@ -1,0 +1,14 @@
+## Interface: 70000
+## Title: Sheath
+## Version: 0.1
+## Notes: Keep your weapons sheathed.
+## Authors: /u/keyboardturn (me), /u/AfterAfterlife, /u/not_a_miner (Istaran | Medivh - EU for the initial inspiration), Zordiak Darkspear-US for the StayUnsheathed Code which I ripped this off from.
+## DefaultState: Enabled
+## LoadOnDemand: 0
+## SavedVariables: sheath_settings
+
+#@no-lib-strip@
+embeds.xml
+#@end-no-lib-strip@
+
+Sheath.lua
